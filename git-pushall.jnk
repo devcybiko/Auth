@@ -5,3 +5,23 @@ From github.com:devcybiko/Auth
  * [new branch]      dependabot/npm_and_yarn/moment-timezone-0.5.37 -> origin/dependabot/npm_and_yarn/moment-timezone-0.5.37
  * [new branch]      dependabot/npm_and_yarn/qs-6.11.0 -> origin/dependabot/npm_and_yarn/qs-6.11.0
 Already up to date.
+[main 2fdab39] automatic push
+ 2 files changed, 7 insertions(+)
+ create mode 100644 git-pushall.jnk
+remote: 
+remote: GitHub found 20 vulnerabilities on devcybiko/Auth's default branch (1 critical, 13 high, 5 moderate, 1 low). To find out more, visit:        
+remote:      https://github.com/devcybiko/Auth/security/dependabot        
+remote: 
+To github.com:devcybiko/Auth.git
+   e4f4638..2fdab39  main -> main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   git-pushall.jnk
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Already up to date.
